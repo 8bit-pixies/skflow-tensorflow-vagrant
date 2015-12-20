@@ -23,6 +23,8 @@ This project provides a [Ubuntu (14.04)](https://atlas.hashicorp.com/ubuntu/boxe
     vagrant ssh
     ```
     
+Then you can run the examples in `skflow` and also within the Tensorflow tutorial.
+    
 ## FAQ
 
 **I'm on windows and it complains I don't have `ssh` or `rsync`. What do I do?**
