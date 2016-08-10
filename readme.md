@@ -1,3 +1,5 @@
+No longer needed as skflow is now part of tensorflow
+
 Readme
 ======
 
